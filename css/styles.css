@@ -1,0 +1,41 @@
+.navli{
+  font-variant: small-caps;
+  font-size: 1.5em;
+  padding-top: 3%;
+}
+
+.myheader{
+  padding-top: 5%;
+}
+a:hover{
+  font-size: 1.5em;
+}
+.jumbo-text {
+  font-size: 1.5em;
+  font-stretch: expanded;
+  line-height: 2;
+}
+
+.btns{
+  margin-bottom: 8%;
+  font-family: cursive
+}
+
+.lessons{
+  display:block;
+  margin: 5%;
+  max-height: 50px;
+  overflow: hidden;
+ }
+
+.right{
+  text-align: right;
+}
+
+#mainViewer{
+	overflow: auto;
+}
+
+.normal-a:hover{
+	font-size: 1em;
+}
